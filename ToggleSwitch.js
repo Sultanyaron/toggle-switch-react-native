@@ -14,6 +14,7 @@ import {
 	View,
 	TouchableOpacity,
 	Animated,
+	I18nManager,
 } from 'react-native';
 
 import PropTypes from 'prop-types';
